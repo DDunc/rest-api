@@ -1,1 +1,1 @@
-#single resource api with pirates
+#single resource rest api with pirates
